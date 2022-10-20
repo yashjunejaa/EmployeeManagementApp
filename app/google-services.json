@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002165388416",
+    "project_id": "fireapp-ecc97",
+    "storage_bucket": "fireapp-ecc97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002165388416:android:ea1425d6f05483e90c1265",
+        "android_client_info": {
+          "package_name": "com.example.employeemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002165388416-l8cqra7s9l16ckujdekh0mo4a9fq0pcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWyUoFnNxONdeySj74YHLRqTxxDSSTAUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002165388416-l8cqra7s9l16ckujdekh0mo4a9fq0pcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

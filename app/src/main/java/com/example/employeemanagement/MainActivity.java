@@ -16,7 +16,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         login = (Button) findViewById(R.id.login);
-        Intent intent= new Intent(this, EmployeeListActivity.class);
-        startActivity(intent);
+        login.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent= new Intent(MainActivity.this, EmployeeListActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 }

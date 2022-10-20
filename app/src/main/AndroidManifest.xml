@@ -23,7 +23,7 @@
             android:name=".PersonalDetailsActivity"
             android:exported="false" />
         <activity
-            android:name=".Employee"
+            android:name=".EmployeeActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
